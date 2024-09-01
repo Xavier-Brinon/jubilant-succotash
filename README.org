@@ -2,9 +2,11 @@
 #+date: [2024-09-01 Sun]
 #+author: Xavier Brinon
 #+startup: indent
-* Goal
+* 🎯 Goal
 Goal is to learn Full Stack react app using TanStack as much as possible.
 Following the [[https://tanstack.com/router/latest/docs/framework/react/start/overview][doc]] at first,
 and then build some projects.
-⚠️ TanStack is still a WIP but will be available soon. It shouldn't change a lot.
 
+⚠️ TanStack is still a WIP but will be available soon. It shouldn't change a lot.
+* ⚙️ Running the project
+So far you can run ~npm run dev~ and visit =http://localhost:3000=.
