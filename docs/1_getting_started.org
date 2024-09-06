@@ -1,0 +1,10 @@
+#+title: Learning TanStack
+#+date: [2024-09-06 Fri]
+#+author: Xavier Brinon
+#+startup: indent
+* 🩼 Basic templates
+There are four required files for *TanStack Start* usage:
+- The router configuration :: =app/router.tsx=
+- The server entry point :: =app/ssr.tsx=
+- The client entry point :: =app/client.tsx=
+- The roof of the application :: =app/routes/__root.tsx=
