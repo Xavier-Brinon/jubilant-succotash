@@ -38,3 +38,7 @@ build/Release
 .env
 .env.test
 .env.*.local
+
+# Build cache
+.vercel
+.vinxi
