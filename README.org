@@ -10,3 +10,6 @@ and then build some projects.
 ⚠️ TanStack is still a WIP but will be available soon. It shouldn't change a lot.
 * ⚙️ Running the project
 So far you can run ~npm run dev~ and visit =http://localhost:3000=.
+* 🥕 Radicle
+To clone this repository on [[https://radicle.xyz][Radicle]], simply run:
+~rad clone rad://zrSr1eVUErVAh8wtboeaVvpzRJVF~
